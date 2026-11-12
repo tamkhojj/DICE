@@ -43,7 +43,7 @@ Example:
 
 ## License and terms of use
 
-The data are released **for non-commercial research purposes only** under the [LICENCE] licence. Any commercial use, including evaluating, ranking or marketing individual businesses, is not permitted. Do not attempt to identify reviewers, staff or facilities.
+The data are released **for non-commercial research purposes only** under the licence. Any commercial use, including evaluating, ranking or marketing individual businesses, is not permitted. Do not attempt to identify reviewers, staff or facilities.
 
 ## Citation
 
